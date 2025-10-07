@@ -1,0 +1,20 @@
+﻿[
+    {
+        "name":  "backend",
+        "pid":  55028,
+        "log":  "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\.run-logs\\backend.log",
+        "script":  "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\.run-logs\\run-backend.ps1"
+    },
+    {
+        "name":  "pipeline-once",
+        "pid":  27372,
+        "log":  "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\.run-logs\\pipeline-once.log",
+        "script":  "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\.run-logs\\run-pipeline-once.ps1"
+    },
+    {
+        "name":  "dashboard",
+        "pid":  10280,
+        "log":  "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\.run-logs\\dashboard.log",
+        "script":  "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\.run-logs\\run-dashboard.ps1"
+    }
+]

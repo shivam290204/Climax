@@ -1,0 +1,40 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+psycopg2-binary
+asyncpg
+redis
+celery
+pandas
+numpy
+scikit-learn
+requests
+httpx
+aiofiles
+python-multipart
+python-jose[cryptography]
+passlib[bcrypt]
+python-dotenv
+prometheus-client
+structlog
+schedule
+
+# --- Optional / Heavy ML & Tracking (install only if needed) ---
+# tensorflow            # Heavy, may hit Windows path length issues; enable long paths first if needed
+# xgboost               # GPU/compiled dependency
+# mlflow                # Experiment tracking
+
+# --- Optional Geo / Visualization (install if geospatial features required) ---
+# geopy
+# shapely
+# geopandas
+# folium
+# plotly
+
+# --- Dev / Tooling ---
+pytest
+pytest-asyncio
+black
+flake8
+mypy

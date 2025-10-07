@@ -1,0 +1,24 @@
+body, html, #root { margin:0; padding:0; height:100%; font-family: system-ui, Arial, sans-serif; background:#f5f7fb; }
+.layout { display:flex; min-height:100vh; }
+.sidebar { width:240px; background:#0b1e39; color:#fff; display:flex; flex-direction:column; padding:20px; }
+.logo { font-size:20px; margin:0 0 24px 0; }
+.sidebar nav a { display:block; color:#b9c6d5; text-decoration:none; padding:10px 12px; border-radius:6px; margin-bottom:4px; font-weight:500; }
+.sidebar nav a.active, .sidebar nav a:hover { background:#183253; color:#fff; }
+.content { flex:1; padding:28px 36px; overflow-y:auto; }
+.page h2 { margin-top:0; }
+.cards { display:grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap:16px; }
+.card { background:#fff; padding:16px; border-radius:12px; box-shadow:0 2px 4px rgba(0,0,0,0.06); border:1px solid #e2e8f0; }
+.card h3 { margin:0 0 8px 0; font-size:16px; }
+.table { width:100%; border-collapse:collapse; }
+.table th, .table td { padding:8px 10px; border-bottom:1px solid #e9eef5; text-align:left; }
+.badge { display:inline-block; padding:2px 8px; border-radius:12px; font-size:12px; background:#edf2f7; }
+.form-group { margin-bottom:16px; }
+label { display:block; font-size:13px; margin-bottom:4px; font-weight:600; }
+input, select, button, textarea { font-family:inherit; font-size:14px; }
+input, select, textarea { width:100%; padding:8px 10px; border:1px solid #cbd5e1; border-radius:6px; background:#fff; }
+button { cursor:pointer; background:#134e9b; border:none; color:#fff; padding:10px 16px; border-radius:6px; font-weight:600; }
+button:disabled { opacity:0.6; cursor:not-allowed; }
+.grid { display:grid; gap:20px; }
+.flex { display:flex; gap:12px; align-items:center; }
+.mt { margin-top:24px; }
+.chart-placeholder { height:240px; background:repeating-linear-gradient(45deg,#eef2f7,#eef2f7 10px,#e2e8f0 10px,#e2e8f0 20px); border-radius:8px; display:flex; align-items:center; justify-content:center; color:#64748b; font-size:14px; }

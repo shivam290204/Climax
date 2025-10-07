@@ -1,0 +1,5 @@
+{
+  "error": "OpenAQ ingestion disabled via OPENAQ_ENABLED env variable",
+  "name": "openaq",
+  "timestamp": "2025-10-04T15:27:23.171732+00:00"
+}

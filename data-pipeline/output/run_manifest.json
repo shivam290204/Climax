@@ -1,0 +1,18 @@
+{
+  "openaq": {
+    "status": "synthetic",
+    "file": "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\data-pipeline\\output\\openaq_delhi_24h.json"
+  },
+  "firms": {
+    "status": "ok",
+    "file": "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\data-pipeline\\output\\firms_india_24h.csv"
+  },
+  "weather": {
+    "status": "ok",
+    "file": "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\data-pipeline\\output\\open_meteo_delhi_72h.json"
+  },
+  "air_quality": {
+    "status": "ok",
+    "file": "C:\\Users\\DELL\\OneDrive - hmritm.ac.in\\Desktop\\Codes\\New folder (2)\\delhi-ncr-pollution-platform\\data-pipeline\\output\\open_meteo_air_quality_72h.json"
+  }
+}

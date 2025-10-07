@@ -1,0 +1,364 @@
+{
+  "results": [
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603699+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603735+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603741+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603746+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603751+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603756+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603760+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603765+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603770+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603774+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603779+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603784+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603796+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603800+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603804+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603810+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603814+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603819+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603823+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603827+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603831+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603836+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603841+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    },
+    {
+      "date": {
+        "utc": "2025-10-04T15:27:27.603845+00:00"
+      },
+      "parameter": "pm25",
+      "value": 90.0,
+      "unit": "µg/m³",
+      "location": "synthetic_station",
+      "city": "Delhi",
+      "country": "IN",
+      "coordinates": {
+        "latitude": 28.61,
+        "longitude": 77.21
+      }
+    }
+  ]
+}

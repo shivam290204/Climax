@@ -1,0 +1,26 @@
+{
+  "model_type": "RandomForestRegressor",
+  "library": "scikit-learn",
+  "version": "1.0",
+  "features": [
+    "pm10",
+    "no2",
+    "so2",
+    "o3",
+    "co",
+    "lat",
+    "lon",
+    "location",
+    "city",
+    "country",
+    "unit",
+    "temp",
+    "humidity",
+    "wind_speed",
+    "wind_dir",
+    "pressure",
+    "hour",
+    "month"
+  ],
+  "target": "pm25"
+}
